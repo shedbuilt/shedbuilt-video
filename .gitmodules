@@ -1,0 +1,8 @@
+[submodule "libmpeg2"]
+	path = libmpeg2
+	url = https://github.com/shedbuilt/libmpeg2.git
+	branch = .
+[submodule "libtheora"]
+	path = libtheora
+	url = https://github.com/shedbuilt/libtheora.git
+	branch = .
